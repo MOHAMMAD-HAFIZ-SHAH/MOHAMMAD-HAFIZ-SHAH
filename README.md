@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/M_HAFIZ_SHAH" target="blank"><img src="https://img.shields.io/twitter/follow/M_HAFIZ_SHAH?logo=twitter&style=for-the-badge" alt="M_HAFIZ_SHAH" /></a> </p>
 
-- 🔭 I'm currently working on **a REACT project EVORIS**
+-🔭 Currently Working On
+Industrial Cyber-Physical Security: Investigating fog-layer security mechanisms using MATLAB/Simulink to detect malicious command injections in industrial automation.
 
-- 🌱 I'm currently learning **Full Stack web development**
+-🌱 Continuous Learning
+Full-Stack Engineering: Advancing my proficiency in the MERN Stack (MongoDB, Express, React, Node.js) and cloud-native deployment patterns.
 
-- 👯 I'm looking to collaborate on **a gamified version of artificial intelligence PathWise**
-
-- 🤝 I'm looking for help with **Sign-2-Speech**
+Control Theory & Fog Computing: Exploring low-latency intrusion detection systems (IDS) for edge-heavy industrial environments.
 
 - 💬 Ask me about **Anything related to software development, frameworks, project structures, or courses I’ve explored—I love sharing what I learn.**
 
