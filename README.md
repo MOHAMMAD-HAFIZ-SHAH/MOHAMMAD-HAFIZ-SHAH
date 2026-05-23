@@ -79,22 +79,6 @@ const hafiz = {
 
 ---
 
-## 🚀 Projects
-
-### 🤖 SIGN BOT — *Python · NLP · Speech Recognition · Web* `(2025)`
-> AI-powered system converting text and speech into sign language representations for accessible communication.
-- Built NLP and speech pipelines with frontend integration for real-time, multi-language interaction
-
-### 👐 SIGN-2-SPEECH — *React · TensorFlow.js · ML* `(2025)`
-> Multimodal system with real-time sign-to-text, text-to-speech, speech-to-text, and emotion detection.
-- Trained a custom CNN model and deployed it in-browser via TensorFlow.js for live webcam inference
-
-### 🌫️ AQI Prediction App — *ML · Random Forest · Android* `(2024)`
-> Android app forecasting city-wise Air Quality Index using a Random Forest model.
-- Designed an interactive UI with predictions, historical data, and trend visualizations
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
